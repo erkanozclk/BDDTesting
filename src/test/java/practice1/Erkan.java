@@ -13,8 +13,7 @@ public class Erkan {
      * NOT: Please remember before you create pull request pull from master to not broke anybody code.
      *
      
-     Hello
-     Hello
+      
      * *****/
 
 
